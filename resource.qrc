@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/font">
+        <file alias="corbeli.ttf">C:/Users/BoyuanZheng/Desktop/font2/corbeli.ttf</file>
+        <file alias="corbel.ttf">C:/Users/BoyuanZheng/Desktop/font2/corbel.ttf</file>
+        <file alias="corbelb.ttf">C:/Users/BoyuanZheng/Desktop/font2/corbelb.ttf</file>
+        <file alias="corbell.ttf">C:/Users/BoyuanZheng/Desktop/font2/corbell.ttf</file>
+        <file alias="corbelli.ttf">C:/Users/BoyuanZheng/Desktop/font2/corbelli.ttf</file>
+        <file alias="corbelz.ttf">C:/Users/BoyuanZheng/Desktop/font2/corbelz.ttf</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file alias="close.png">C:/Users/BoyuanZheng/Desktop/font2/close.png</file>
+        <file alias="minimize.png">C:/Users/BoyuanZheng/Desktop/font2/minimize.png</file>
+    </qresource>
+</RCC>
